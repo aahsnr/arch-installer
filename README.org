@@ -2,8 +2,13 @@
 #+AUTHOR: Ahsanur Rahman
 #+DESCRIPTION: A custom arch linux installer based on archinstall
 
-
-*It should have the following features*
+*It should have the following features and in the following order*
 1. dracut instead of mkinitcpio
-2. btrfs submodules
-3. add cachyos repos and endeavorous repos
+2. full disk encryption using LUKS2
+3. lvm2 setup
+4. swap
+5. btrfs subvolumes
+6. have cachyos repos and endeavorous repos already enabled
+7. uses grub boot manager by default
+8. installs and run eos-dracut
+
