@@ -1,6 +1,7 @@
-#+Title: README.org
+#+TITLE: README.org
+#+AUTHOR: Ahsanur Rahman
+#+DESCRIPTION: A custom arch linux installer based on archinstall
 
-Description: A custom arch linux installer based on archinstall
 
 *It should have the following features*
 1. dracut instead of mkinitcpio
