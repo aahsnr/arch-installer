@@ -8,7 +8,9 @@
 3. lvm2 setup
 4. swap
 5. btrfs subvolumes
-6. have cachyos repos and endeavorous repos already enabled
-7. uses grub boot manager by default
-8. installs and run eos-dracut
+6. disables root account
+7. have cachyos repos and endeavorous repos already enabled
+8. uses grub boot manager by default
+9. installs and run eos-dracut
+10. install packages using yay
 
