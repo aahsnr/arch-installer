@@ -1,5 +1,5 @@
 #+Title: README.org
-Author: Ahsanur Rahman
+
 Description: A custom arch linux installer based on archinstall
 
 *It should have the following features*
