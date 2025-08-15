@@ -1,0 +1,8 @@
+#+Title: README.org
+Author: Ahsanur Rahman
+Description: A custom arch linux installer based on archinstall
+
+*It should have the following features*
+1. dracut instead of mkinitcpio
+2. btrfs submodules
+3. add cachyos repos and endeavorous repos
